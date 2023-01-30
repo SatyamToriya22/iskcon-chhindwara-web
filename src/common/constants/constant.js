@@ -1,0 +1,7 @@
+export const welcomeTitle = "WELCOME"
+export const mainServicesTitle = "OUR MAIN SERVICES"
+export const goshala = "GOSHALA"
+export const prasadam = "PRASADAM"
+export const deityDepartment = "DEITY DEPARTMENT"
+export const ekadashiKirtan = "EKADASHI KIRTAN"
+export const founderAcharya = "FOUNDER ACHARYA"
